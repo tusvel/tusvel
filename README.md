@@ -27,7 +27,8 @@
 [Backend Code](https://github.com/tusvel/shop_backend)
 
 📰 **[Tusvel blog](https://github.com/tusvel/tusvel-blog) [✅complete]** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, tailwindCSS, passportJS авторизация\
-[Fullstack Code](https://github.com/tusvel/shop)
+[Frontend Code](https://github.com/tusvel/blog_frontend)\
+[Backend Code](https://github.com/tusvel/blog_backend)
 
 **Заказы**
 
