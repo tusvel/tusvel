@@ -2,7 +2,7 @@
 
 ![I'm frontend developer](https://raw.githubusercontent.com/tusvel/tusvel/main/hello.png?raw=true)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=2+years+of+experience.;A+successful+freelance+profile.;The+desire+to+develop.)](https://git.io/typing-svg)
 
 **Проекты** (Некоторые ещё не задеплоил)
 
@@ -41,4 +41,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusvel&show_icons=true&locale=en&layout=compact" alt="tusvel" /></p>
 
-https://github.com/tusvel/tusvel/blob/output/github-contribution-grid-snake.gif
+<img src="https://raw.githubusercontent.com/tusvel/tusvel/07a074b45438f3199133bd7a02490459a1b53832/github-contribution-grid-snake.svg" />
