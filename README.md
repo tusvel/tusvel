@@ -1,6 +1,8 @@
 <h3 align="center">A passionate frontend developer</h3>
 
-![I'm frontend developer](https://raw.githubusercontent.com/tusvel/tusvel/main/header.png?raw=true)
+![I'm frontend developer](https://raw.githubusercontent.com/tusvel/tusvel/main/hey.png?raw=true)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 **Проекты** (Некоторые ещё не задеплоил)
 
