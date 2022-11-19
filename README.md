@@ -11,8 +11,8 @@
 [Backend Code](https://github.com/tusvel/netflix_backend)
 
 ◉ **Vietube [✅complete]** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, tailwindCSS, passportJS авторизация\
-[Frontend Code](https://github.com/tusvel/netflix_frontend)\
-[Backend Code](https://github.com/tusvel/netflix_backend)
+[Frontend Code](https://github.com/tusvel/vietube_frontend)
+[Backend Code](https://github.com/tusvel/vietube_backend)
 
 🎵 **Betify [▁ ▂ ▃ process]** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, tailwindCSS, passportJS авторизация\
 [Frontend Code](https://github.com/tusvel/betify_frontend)\
