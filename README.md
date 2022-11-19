@@ -41,4 +41,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusvel&show_icons=true&locale=en&layout=compact" alt="tusvel" /></p>
 
-![snake gif](https://github.com/tusvel/tusvel/blob/output/github-contribution-grid-snake.gif)
+https://github.com/tusvel/tusvel/blob/output/github-contribution-grid-snake.gif
