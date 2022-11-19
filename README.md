@@ -1,5 +1,6 @@
 <h3 align="center">A passionate frontend developer</h3>
 
+![I'm frontend developer](https://raw.githubusercontent.com/tusvel/tusvel/main/header.png?raw=true)
 
 **Проекты** (Некоторые ещё не задеплоил)
 
