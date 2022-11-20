@@ -6,27 +6,27 @@
 
 **Проекты** (Некоторые ещё не задеплоил)
 
-🔥 **Netflix [✅complete]** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, tailwindCSS, passportJS авторизация\
+🔥 **Netflix [✅complete]** - Next, React-query, Redux-toolkit, Typescript, Sass, TailwindCSS, Nest, MongoDB, jwt авторизация\
 [Frontend Code](https://github.com/tusvel/netflix_frontend)\
 [Backend Code](https://github.com/tusvel/netflix_backend)
 
-◉ **Vietube [✅complete]** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, tailwindCSS, passportJS авторизация\
+◉ **Vietube [✅complete]** - Next, React-query, Redux-persist, Redux-toolkit, Typescript, PostCss, TailwindCSS, Nest, PostgreSQL, jwt\
 [Frontend Code](https://github.com/tusvel/vietube_frontend)\
 [Backend Code](https://github.com/tusvel/vietube_backend)
 
-🎵 **Betify [▁ ▂ ▃ process]** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, tailwindCSS, passportJS авторизация\
+🎵 **Betify [▁ ▂ ▃ process]** - Next, Redux-toolkit, Typescript, tailwindCSS, Nest, MongoDB, PassportJS авторизация\
 [Frontend Code](https://github.com/tusvel/betify_frontend)\
 [Backend Code](https://github.com/tusvel/betify_backend)
 
-🍕 **[React pizza](https://react-pizza-ashen.vercel.app/) [✅complete]** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, tailwindCSS, passportJS авторизация\
-[Frontend Code](https://github.com/tusvel/netflix_frontend)\
-[Backend Code](https://github.com/tusvel/netflix_backend)
+🍕 **[React pizza](https://react-pizza-ashen.vercel.app/) [✅complete]** - ReactJS 18, TypeScript, Redux Toolkit, React Router v6, Axios + Fetch\
+[Frontend Code](https://github.com/tusvel/react-pizza)\
+[Backend Api](https://62beee990bc9b125616319d8.mockapi.io/items)
 
-🛒 **[Online shop](https://github.com/tusvel/shop) [✅complete]** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, tailwindCSS, passportJS авторизация\
+🛒 **Online shop [✅complete]** - React, Mobx, ExpressJS, MongoDB, Express, Jwt\
 [Frontend Code](https://github.com/tusvel/shop_frontend)\
 [Backend Code](https://github.com/tusvel/shop_backend)
 
-📰 **[Tusvel blog](https://github.com/tusvel/tusvel-blog) [✅complete]** - React, Redux-toolkit, Typescript, ExpressJS, MongoDB, tailwindCSS, passportJS авторизация\
+📰 **[Tusvel blog](https://github.com/tusvel/tusvel-blog) [✅complete]** - ReactJS,Redux Toolkit, Express, Axios + Fetch\
 [Frontend Code](https://github.com/tusvel/blog_frontend)\
 [Backend Code](https://github.com/tusvel/blog_backend)
 
