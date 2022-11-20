@@ -26,7 +26,7 @@
 [Frontend Code](https://github.com/tusvel/shop_frontend)\
 [Backend Code](https://github.com/tusvel/shop_backend)
 
-📰 **[Tusvel blog](https://github.com/tusvel/tusvel-blog) [✅complete]** - ReactJS,Redux Toolkit, Express, Axios + Fetch\
+📰 **[Tusvel blog](https://talivel-blog-frontend.vercel.app/) [✅complete]** - ReactJS,Redux Toolkit, Express, Axios + Fetch\
 [Frontend Code](https://github.com/tusvel/blog_frontend)\
 [Backend Code](https://github.com/tusvel/blog_backend)
 
