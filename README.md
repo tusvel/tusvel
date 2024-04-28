@@ -1,7 +1,2 @@
-### Hi there 👋
+[eslint-path-checker](https://www.npmjs.com/package/eslint-path-checker) - plugin for check [FSD](https://feature-sliced.design/) imports
 
-| Month    | Savings |
-| -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
