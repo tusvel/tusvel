@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/username/repo/branch/path/to/your.gif" width="100%">
+<img src="https://raw.githubusercontent.com/tusvel/tusvel/refs/heads/main/Erie.gif" width="100%">
